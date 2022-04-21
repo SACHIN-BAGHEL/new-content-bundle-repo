@@ -1,0 +1,15 @@
+code: my-test-bundle
+description: My
+bundle-type: system-level-bundle
+components:
+  groups:
+    - groups/groups-descriptor.yaml
+  assets:
+    - assets/99/99-descriptor.yaml
+    - assets/entandoatplan/entandoatplan-descriptor.yaml
+    - assets/entandoatwork/entandoatwork-descriptor.yaml
+    - assets/htmlcode/htmlcode-descriptor.yaml
+  contents:
+    - contents/tcl95-descriptor.yaml
+
+  
